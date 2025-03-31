@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @neha-Kumari-1
 - 👀 I’m interested in learning and implmentaing new tech
 - 🌱 I’m currently learning Go, clean code
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me neha.kumari030 -> slack
 - 😄 Pronouns: nea
 - ⚡ Fun fact: ...
