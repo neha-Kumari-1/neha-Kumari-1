@@ -5,7 +5,7 @@
 - 😄 Pronouns: nea
 - ⚡ Fun fact: ...
 - I like plantation
-- I like aalu paratha 
+- I like paratha 
 
 <!---
 neha-Kumari-1/neha-Kumari-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
